@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Dwivedi
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Fullstack with java
-- 📫 How to reach me this is My mail adityadwivedi2863
+- 📫 How to reach me this is My mail adityadwivedi2863@gmail.com
 
 <!---
 adityadwivedi2002/adityadwivedi2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
