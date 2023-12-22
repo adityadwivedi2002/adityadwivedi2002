@@ -1,7 +1,10 @@
 <h1 align="center">
  👋 Hi, I'm Aditya Dwivedi!
 </h1>
-<img align="centre" alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg">
+<a href="#"><img width="100%" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" />
+<!-- 	<img  width="100%" height="auto" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/> -->
+</a>
+
 <h3>I'm a recent computer science graduate
 with a passion for developing scalable
 web applications and working across
@@ -28,9 +31,6 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 
 </br> 
 
-<a href="#"><img width="100%" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" />
-<!-- 	<img  width="100%" height="auto" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/> -->
-</a>
 
 
 
