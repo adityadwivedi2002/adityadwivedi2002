@@ -32,6 +32,5 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 - 🌱 I’m currently learning **React**
 - 🎯 I also solve problems on [Code Studio](https://www.codingninjas.com/studio/profile/adityasdwivedi)
 - 💪🏼 Future Goals: Learn more technologies - Never stop implementing new ideas.
-- 👨‍💻  Know more about me [Portfolio](https://adityadwivedi2002.github.io/)
 - 📫 How to reach me: ...*adityadwivedi2863@gmail.com*
 
