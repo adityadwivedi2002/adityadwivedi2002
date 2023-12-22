@@ -1,6 +1,6 @@
-<h1 align="center">
- 👋 Hi, I'm Aditya Dwivedi!
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Fullstack+Developer+!;Problem+Solver" > 
+</p>
 <a href="#"><img width="100%" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" />
 <!-- 	<img  width="100%" height="auto" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/> -->
 </a>
