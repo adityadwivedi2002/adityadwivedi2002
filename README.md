@@ -1,36 +1,66 @@
-<h1 align="center">
-	👋 Hi, I'm Aditya Dwivedi!
-</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Fullstack+Developer+!;Problem+Solver" > 
-</p>
-<a href="#"><img width="100%" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" />
-<!-- 	<img  width="100%" height="auto" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/> -->
-</a>
 
-<h3>I'm a recent Bachelor of Science in Information Technology graduate
-with a passion for developing scalable
-web applications and working across
-the full stack. Passionate about
-implementing new ideas in reality.
-Looking for the opportunity
-where I can utilize the extensive
-knowledge I have gained during my
-Full stack web development course😃. I focuses on writing clean, elegant and efficient code ✨</h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=abhishekyadav001&style=for-the-badge"/>
+<h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 
+!['image of banner'](./Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png) <br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=59&pause=1000&random=false&width=1200&height=100&lines=Full+Stack+Web+Developer;Frontend+Web+Developer)](https://git.io/typing-svg)
+
+<img align="right" width="400" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" />
+
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👨‍💻 All of my projects are available at [https://adityadwivedi2002.github.io/](https://adityadwivedi2002.github.io/)
+
+- 👀 Looking for contribution in M.E.R.N Project
+
+- 💬 Ask me about **Frontend**
+
+- 📫 How to reach me **adityadwivedi2002@gmail.com**
+
+- 🎧 I love to listen Music 
 
 ## Connect with me:
+<div align="left"> 
+  <a href="mailto:adityadwivedi2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-dwivedi-355258239/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-<p >
-  <a href="https://www.linkedin.com/in/aditya-dwivedi-355258239/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+
+<h2 align="center">⚒️ Tech-Stack ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git" /> <br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,bootstrap" /><br>
+</div>
+
 </p>
 
-</br> 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adityadwivedi2002/adityadwivedi2002/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-- 🔭 I’m currently working on Frontend and Backend technologies 😅
-- 👨‍💻 I’m currently learning React, Express, NodeJs, MongoDb at Coding Ninjas.
-- 🌱 I’m currently learning **React**
-- 🎯 I also solve problems on [Code Studio](https://www.codingninjas.com/studio/profile/adityasdwivedi)
-- 💪🏼 Future Goals: Learn more technologies - Never stop implementing new ideas.
-- 📫 How to reach me: ...*adityadwivedi2863@gmail.com*
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=adityadwivedi2002&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=adityadwivedi2002&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=adityadwivedi2002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
 
