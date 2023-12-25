@@ -1,6 +1,6 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=abhishekyadav001&style=for-the-badge"/>
-<h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
+<h1 align="center">Hi 👋, I'm Aditya Dwivedi</h1>
 
 !['image of banner'](./Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png) <br><br>
 
