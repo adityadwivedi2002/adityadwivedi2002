@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://adityadwivedi2002.github.io/](https://adityadwivedi2002.github.io/)
-
 - 👀 Looking for contribution in M.E.R.N Project
 
 - 💬 Ask me about **Frontend**
