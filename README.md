@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/adityadwivedi"><img src="https://api.daily.dev/devcards/ea3b1c7ea0ea412888040716c92c8441.png?r=svu" width="400" alt="Aditya Dwivedi's Dev Card"/></a>
+<a href="https://app.daily.dev/adityadwivedi"><img src="https://api.daily.dev/devcards/ea3b1c7ea0ea412888040716c92c8441.png?r=svu" width="260" alt="Aditya Dwivedi's Dev Card"/></a>
 
 
 <h1 align="center">Hi 👋, I'm Aditya Dwivedi</h1>
