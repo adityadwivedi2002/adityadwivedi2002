@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Aditya Dwivedi</h1>
-
+<p align="left">
 !['image of banner'](./Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png) <br><br>
-
+</p>
 <div style="text-align:center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=59&pause=1000&random=false&width=1200&height=100&lines=Full+Stack+Web+Developer;Frontend+Web+Developer" alt="Typing SVG">
 </div>
