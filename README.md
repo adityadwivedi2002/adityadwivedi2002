@@ -1,6 +1,6 @@
 <a href="https://app.daily.dev/adityadwivedi"><img src="https://api.daily.dev/devcards/ea3b1c7ea0ea412888040716c92c8441.png?r=svu" width="260" alt="Aditya Dwivedi's Dev Card"/></a>
 
-<span>
+<span align="top">
 <img align="right" width="400" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" />
 </span>
 
