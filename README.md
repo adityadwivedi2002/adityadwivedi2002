@@ -1,5 +1,5 @@
 
-<p  align="top center">
+<p  align="center">
  <a href="https://app.daily.dev/adityadwivedi"><img src="https://api.daily.dev/devcards/612db3c2a6bb4916824419a215f49bcd.png?r=xmo" width="260" alt="Aditya Dwivedi Dev Card"/></a>
 
 
