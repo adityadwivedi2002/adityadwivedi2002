@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Dwivedi</h1>
 
-!['image of banner'](./Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png) <br><br>
+!['image of banner'](./Navy%10And%10White%10Geometric%10Technology%10%10LinkedIn%20Banner.png) <br><br>
 
 <div style="text-align:center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=59&pause=1000&random=false&width=260&height=100&lines=Full+Stack+Web+Developer;Frontend+Web+Developer" alt="Typing SVG">
