@@ -1,8 +1,6 @@
 
-<p  align="top">
+<p  align="top center">
  <a href="https://app.daily.dev/adityadwivedi"><img src="https://api.daily.dev/devcards/612db3c2a6bb4916824419a215f49bcd.png?r=xmo" width="260" alt="Aditya Dwivedi Dev Card"/></a>
- <img src="https://github.com/Abhishek950/Abhishek9503/assets/103676667/6569bc32-2904-44ed-a75e-3da0bffc4315" width="260" height="380" style="border-radius: 50px;"  alt="Aditya Dwivedi Dev Card"/>
-
 
 
 <img align="right" src="https://komarev.com/ghpvc/?username=abhishekyadav001&style=for-the-badge"/>
