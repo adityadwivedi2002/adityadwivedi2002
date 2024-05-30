@@ -22,14 +22,14 @@
 - 🎧 I love to listen Music 
 
 ## Connect with me:
-<div align="left"> 
-  <a href="mailto:adityadwivedi2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-dwivedi-355258239/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek9503&label=Profile%20views&color=0e75b6&style=flat" alt="adityadwivedi2002" /> </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/aditya-dwivedi-355258239/)](https://www.linkedin.com/in/aditya-dwivedi-355258239/)
+[![Instagram Badge](https://img.shields.io/badge/-adityasdwivedi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adityasdwivedi/)](https://www.instagram.com/adityasdwivedi/)
+[![Gmail Badge](https://img.shields.io/badge/-adityasdwivedi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityasdwivedi@gmail.com)](mailto:adityasdwivedi@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-bracketo-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@bracketo)](https://www.youtube.com/@bracketo)
+
 
 
 <h2 align="center">⚒️ Tech-Stack ⚒️</h2>
